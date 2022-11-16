@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nodepad - CRUD</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_description">Product Description</string>
+</resources>
